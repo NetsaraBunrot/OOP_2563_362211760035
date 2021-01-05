@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="" />
+    <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="LAB : 3 Data tpye and import data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/NetsaraBunrot/OOP_2563_362211760035" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1mdTnxjjUAKrqWhHGmNitevRhZQ" />
   <component name="ProjectViewState">
@@ -25,6 +35,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,11 +56,55 @@
       <option name="project" value="LOCAL" />
       <updated>1609823032159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LAB : 3 Data tpye and import data">
+      <created>1609823813494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609823813494</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LAB : 3 Data tpye and import data">
+      <created>1609824277685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609824277685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;LAB : 3 Data tpye and import data&quot;&#10;&#10;This reverts commit 5256e0b8">
+      <created>1609824935035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609824935035</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LAB : 3 Data tpye and import data" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB : 3 Data tpye and import data" />
+    <MESSAGE value="Revert &quot;LAB : 3 Data tpye and import data&quot;&#10;&#10;This reverts commit 5256e0b8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;LAB : 3 Data tpye and import data&quot;&#10;&#10;This reverts commit 5256e0b8" />
   </component>
 </project>
