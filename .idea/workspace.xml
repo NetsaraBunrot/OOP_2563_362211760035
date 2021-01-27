@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Home_Work/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +33,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="device.file.explorer" />
   </component>
-  <component name="RunManager" selected="Application.Login">
+  <component name="RunManager" selected="Application.ex_if">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home_Work.Login" />
       <module name="OOP_2563_362211760035" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Home_Work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB3.ex_if" />
+      <module name="OOP_2563_362211760035" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex_if" />
         <item itemvalue="Application.Login" />
         <item itemvalue="Application.ex_switch" />
       </list>
