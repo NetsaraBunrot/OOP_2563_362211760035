@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LAB5/Exercise_Lab5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611724886594</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="LAB : 5 Data tpye and import data">
+      <created>1611725549315</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611725549315</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -205,6 +211,7 @@
     <MESSAGE value="Revert &quot;LAB : 3 Data tpye and import data&quot;&#10;&#10;This reverts commit 5256e0b8" />
     <MESSAGE value="LAB : 3 Data tpye and import data" />
     <MESSAGE value="LAB : 4 Data tpye and import data" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB : 4 Data tpye and import data" />
+    <MESSAGE value="LAB : 5 Data tpye and import data" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB : 5 Data tpye and import data" />
   </component>
 </project>
