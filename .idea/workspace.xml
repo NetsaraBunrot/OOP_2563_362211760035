@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Lab3_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_nested_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB_2/BasicDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB_2/BasicInputDATA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB_2/BasicJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB_2/Exercise_STD_Profile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="device.file.explorer" />
   </component>
-  <component name="RunManager" selected="Application.ex_overload_method">
+  <component name="RunManager" selected="Application.ex_if_else_if">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home_Work.Login" />
       <module name="OOP_2563_362211760035" />
@@ -50,6 +61,19 @@
     </configuration>
     <configuration name="ex_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LAB3.ex_if" />
+      <module name="OOP_2563_362211760035" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_if_else_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB3.ex_if_else_if" />
       <module name="OOP_2563_362211760035" />
       <extension name="coverage">
         <pattern>
@@ -89,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex_if_else_if" />
         <item itemvalue="Application.ex_overload_method" />
         <item itemvalue="Application.ex_if" />
         <item itemvalue="Application.Login" />
@@ -182,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611725549315</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="LAB : 6 Data tpye and import data">
+      <created>1611727680613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611727680613</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -212,6 +244,7 @@
     <MESSAGE value="LAB : 3 Data tpye and import data" />
     <MESSAGE value="LAB : 4 Data tpye and import data" />
     <MESSAGE value="LAB : 5 Data tpye and import data" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB : 5 Data tpye and import data" />
+    <MESSAGE value="LAB : 6 Data tpye and import data" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB : 6 Data tpye and import data" />
   </component>
 </project>
