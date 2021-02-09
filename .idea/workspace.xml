@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="" />
+    <list default="true" id="1ac99b09-fe88-4b4a-bddd-12a2250913dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LAB7/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="612">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
                 <element signature="e#178#179#0" expanded="true" />
@@ -77,6 +79,15 @@
                 <element signature="e#410#411#0" expanded="true" />
                 <element signature="e#438#439#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LAB7/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/LAB7/EnployeeApp.java" />
         <option value="$PROJECT_DIR$/src/LAB7/Employee.java" />
         <option value="$PROJECT_DIR$/src/LAB7/EmployeeApp.java" />
+        <option value="$PROJECT_DIR$/src/LAB7/Student.java" />
         <option value="$PROJECT_DIR$/src/LAB7/Car.java" />
       </list>
     </option>
@@ -134,55 +146,7 @@
               <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Home_Work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LAB7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP_2563_362211760035" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_2563_362211760035" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LAB_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +165,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="device.file.explorer" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -394,11 +358,26 @@
       <option name="project" value="LOCAL" />
       <updated>1612845312379</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="LAB : 7 Data tpye and import data">
+      <created>1612845563068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612845563068</updated>
+    </task>
+    <task id="LOCAL-00015" summary="LAB : 7 Data tpye and import data">
+      <created>1612845639460</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612845639460</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -525,10 +504,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LAB7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LAB7/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="612">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
